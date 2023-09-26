@@ -1,7 +1,7 @@
-# Project Name: Using existing CCTV network for crowd management, crime prevention, and work monitoring using AIiML
+# Using existing CCTV network for crowd management, crime prevention, and work monitoring using AIiML
 # PS Code : SIH1349
 
-## Team Name: Byte Builder/Model Magicians
+## Team Name: Bug99
 - Team Members: Pratham Chellani, Tanish Ramchandani, Karan Devnani, Vidhiksha Mehta, Vidisha Kachhia, Rishi Gangwani 
 
 - Contact Email: workbyprat@gmail.com, ramchandanitanishq@gmail.com, mr.bull965@gmail.com, vidhikhsa0702@gmail.com, kkachhia2411@gmail.com, gangwani.rishi29@gmail.com 
@@ -14,20 +14,19 @@ Briefly describe the purpose and goals of our AI project. What problem does it s
 
 Here are the technologies and tools we used to build our AI solution:
 
-example :
 
-* **NEXT** <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next">
-* **REACT** <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React">
-* **Node** <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node">
-* **Express** <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express">
-* **Tailwind** <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
-* **FireBase** <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="FireBase">
-* **Python** <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python">
-* **TensorFlow**  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Tensorflow">
-* **Flask**  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-* **Scikit-Learn** <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit">
+ <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next">
+ <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React">
+ <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node">
+ <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express">
+ <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+ <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="FireBase">
+ <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Tensorflow">
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+ <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit">
  
-* [More technologies/tools used]
+
 
 
 ## Project Features and Functionality ✨

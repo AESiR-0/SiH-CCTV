@@ -25,3 +25,13 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+
+
+/* vande bharat image */
+.vande-bharat {
+  background: url('https://images.unsplash.com/photo-1586772013412-3b1e3a3a1c3d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}

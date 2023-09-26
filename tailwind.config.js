@@ -12,7 +12,9 @@ module.exports = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
-    },
+    colors: {
+      'paramount': '1C5969'
+    },}
   },
   plugins: [],
 }

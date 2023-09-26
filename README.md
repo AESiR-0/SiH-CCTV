@@ -8,7 +8,12 @@
 
 
 ## Project Overview 🚀
-Briefly describe the purpose and goals of our AI project. What problem does it solve? What's its significance? This section should provide an exciting introduction to our project.
+
+- Our AI project will be solely focusing on the advancements of the Indian Railways in order to ease the human labor behind various aspects like crowd management, crime ratios, work monitoring, safety etc. This will be highly beneficial since it provides AI precision compared to the manual errors faced at times and all the missed incidents will deteriorate with a peak speed.
+
+- The problem of lack of sufficient eyes on the workload during the rush hours of railways has scandalous results with horrific side effects as well in order to prevent such crimes or accidents due to overcrowding of spots which will be precisely prevented along with the enhancement on the monitoring of the place for keeping it clean and neat. The project also helps to keep track of the employees working and their efficiency.
+
+- With the population increase faced in India, it is now highly necessary to work and develop the systems accordingly. With this project, the alert systems will increase the quick notifications of essential information.
 
 ## Tech Stack 💻
 
@@ -21,16 +26,50 @@ Here are the technologies and tools we used to build our AI solution:
 
 
 ## Project Features and Functionality ✨
-Explain the main features and functionalities of our AI project. Highlight how users will interact with it and the benefits they'll gain.
+
+THE ADMIN:-
+
+- This section of the project is the profile of the authorities. For security purposes, there is the provision of facial recognition.
+
+THE ALERTS:-
+
+- there are basic 3 types of alerts
+
+High alert: this alert is showcased when there has been an observation of some sort of hazardous object or any sort of detection of any sort of movement disturbing the periodicity of the railway station.
+
+mild alert: this alert is showcased when there will be any sort disturbance in the upcoming time basically like the sudden push of the crowd population during the rush hour.
+
+low alert: this alert will be showcased just to notify about any sort of possibility of a massacre happening. 
+
+THE MONITORING PANEL:-
+
+- the monitoring panel provide the real time data regarding the footage to the respective authorities.
+
+The authorities or the users will have an easy access
 
 ## How It Works 🛠️
-Provide a high-level overview of how our AI solution works. You can use diagrams or flowcharts to make it easier to understand. Explain the key components, data flow, and the AI/ML techniques utilized.
+This is how the process looks like -
+
+Initially, reading the data from the DVR or IP cameras through streaming it onto a node server for manual monitoring and sending it to for and processes it with Deep learning models like CNN using OpenCV, Tensorflow and Scikit learn's predefined models too. The processing will detect humans and criminal activities like knives, guns, brawls, etc. It will then move on to creating a communication channels with Node.js and JSON to get the data to the FrontEnd frameworks, i.e, React and Next mainly. Storage of History of alerts, captures and contacts of the personnel which will be alerted at the times of crisis.
+
 
 ## Challenges and Solutions 🧠
-Share any challenges our team faced during development and how you overcame them. This can include technical obstacles, data-related issues, or creative roadblocks.
+
+We faced some issues which are listed below -
+
+* Rarely available data on the internet for railway cams -> Not enough training data
+* 
+
+We got over them by -
+
+* Using handheld recordings for the matter of training data, editing some footages and personalized recording too.
 
 ## Future Enhancements 🚧
-Detail the future improvements and additional features your plan to implement in our AI project. This could include expanding the model's capabilities, integrating new data sources, or enhancing the user experience.
+
+* Using Exisitng CCTV camera network recordings as training data 
+* Heavy Ui with performance optimisation 
+* Voice Call with Text to Speech information communication to security
+
 
 ## Screenshots and Demos 📸
 Showcase the visual aspects of our AI solution through screenshots or videos. If possible, include a link to a live demo or video demonstration.

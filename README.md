@@ -58,11 +58,13 @@ Initially, reading the data from the DVR or IP cameras through streaming it onto
 We faced some issues which are listed below -
 
 * Rarely available data on the internet for railway cams -> Not enough training data
-* 
+* Most of the team was new to Ai/ML and unware about the deep learning models and their implementation 
+
 
 We got over them by -
 
 * Using handheld recordings for the matter of training data, editing some footages and personalized recording too.
+* Developing the basics of deep learning and Ai/Ml taking help from the seniors and the internet did the job well.
 
 ## Future Enhancements 🚧
 
@@ -71,18 +73,27 @@ We got over them by -
 * Voice Call with Text to Speech information communication to security
 
 
-## Screenshots and Demos 📸
-Showcase the visual aspects of our AI solution through screenshots or videos. If possible, include a link to a live demo or video demonstration.
+<!-- ## Screenshots and Demos 📸
+Showcase the visual aspects of our AI solution through screenshots or videos. If possible, include a link to a live demo or video demonstration. -->
 
-## Acknowledgments 🙌
 
 
 ## Get In Touch! 📬
 
 
-| Team Member | LinkedIn | Kaggle | Email |
+| Team Member | LinkedIn | Email |
 |---|---|---|---|
-| Naqibahmed Kadri | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naqibahmed-kadri/) | [![Kaggle](https://img.shields.io/badge/Kaggle-%2320B2AA.svg?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/nakibahmedkadri) | [naqibahmedkadri@gmail.com](mailto:naqibahmedkadri@gmail.com) |
+| Pratham Chellani | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pratham-chellani-1a1739213/)  [workbyprat@gmail.com](mailto:workbyprat@gmail.com) |
+
+| Vidhiksha Mehta | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naqibahmed-kadri/)  [vidhiksha0702@gmail.com](mailto:vidhiksha0702@gmail.com) |
+
+| Tanish Ramchandani | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naqibahmed-kadri/)  [ramchandanitanish@gmail.com](mailto:ramchandanitanish@gmail.com) |
+
+| Karan Devnani | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naqibahmed-kadri/)  [mr.bull965@gmail.com](mailto:mr.bull965@gmail.com) |
+
+| Rishi Gangwani | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naqibahmed-kadri/)  [gangwani.rishi29@gmail.com](mailto:gangwani.rishi29@gmail.com) |
+
+| Vidisha Kachhia | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naqibahmed-kadri/)  [kkachhia2411@gmail.com](mailto:kkachhia2411@gmail.com) |
 
 
 

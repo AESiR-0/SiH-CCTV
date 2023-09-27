@@ -33,17 +33,17 @@ THE ADMIN:-
 
 THE ALERTS:-
 
-- there are basic 3 types of alerts
+There are 3  basic types of alerts
 
-High alert: this alert is showcased when there has been an observation of some sort of hazardous object or any sort of detection of any sort of movement disturbing the periodicity of the railway station.
+* High alert: This alert is showcased when there has been an observation of some sort of hazardous object or any sort of detection of any sort of movement disturbing the periodicity of the railway station.
 
-mild alert: this alert is showcased when there will be any sort disturbance in the upcoming time basically like the sudden push of the crowd population during the rush hour.
+* Mild alert: This alert is showcased when there will be any sort disturbance in the upcoming time basically like the sudden push of the crowd population during the rush hour.
 
-low alert: this alert will be showcased just to notify about any sort of possibility of a massacre happening. 
+* Low alert: This alert will be showcased just to notify about any sort of possibility of a massacre happening. 
 
 THE MONITORING PANEL:-
 
-- the monitoring panel provide the real time data regarding the footage to the respective authorities.
+- The monitoring panel provide the real time data regarding the footage to the respective authorities.
 
 The authorities or the users will have an easy access
 

@@ -83,7 +83,7 @@ Showcase the visual aspects of our AI solution through screenshots or videos. If
 
 | Team Member  | Email |
 |---|---|---|---|
-| Pratham Chellani | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pratham-chellani-1a1739213/)  [workbyprat@gmail.com](mailto:workbyprat@gmail.com) |
+| Pratham Chellani |  [workbyprat@gmail.com](mailto:workbyprat@gmail.com) |
 
 | Vidhiksha Mehta |  [vidhiksha0702@gmail.com](mailto:vidhiksha0702@gmail.com) |
 

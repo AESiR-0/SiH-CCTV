@@ -81,19 +81,19 @@ Showcase the visual aspects of our AI solution through screenshots or videos. If
 ## Get In Touch! 📬
 
 
-| Team Member | LinkedIn | Email |
+| Team Member  | Email |
 |---|---|---|---|
 | Pratham Chellani | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pratham-chellani-1a1739213/)  [workbyprat@gmail.com](mailto:workbyprat@gmail.com) |
 
-| Vidhiksha Mehta | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naqibahmed-kadri/)  [vidhiksha0702@gmail.com](mailto:vidhiksha0702@gmail.com) |
+| Vidhiksha Mehta |  [vidhiksha0702@gmail.com](mailto:vidhiksha0702@gmail.com) |
 
-| Tanish Ramchandani | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naqibahmed-kadri/)  [ramchandanitanish@gmail.com](mailto:ramchandanitanish@gmail.com) |
+| Tanish Ramchandani |  [ramchandanitanish@gmail.com](mailto:ramchandanitanish@gmail.com) |
 
-| Karan Devnani | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naqibahmed-kadri/)  [mr.bull965@gmail.com](mailto:mr.bull965@gmail.com) |
+| Karan Devnani |  [mr.bull965@gmail.com](mailto:mr.bull965@gmail.com) |
 
-| Rishi Gangwani | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naqibahmed-kadri/)  [gangwani.rishi29@gmail.com](mailto:gangwani.rishi29@gmail.com) |
+| Rishi Gangwani |  [gangwani.rishi29@gmail.com](mailto:gangwani.rishi29@gmail.com) |
 
-| Vidisha Kachhia | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naqibahmed-kadri/)  [kkachhia2411@gmail.com](mailto:kkachhia2411@gmail.com) |
+| Vidisha Kachhia |  [kkachhia2411@gmail.com](mailto:kkachhia2411@gmail.com) |
 
 
 

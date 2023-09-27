@@ -84,17 +84,17 @@ Showcase the visual aspects of our AI solution through screenshots or videos. If
 | Team Member  | Email |
 |---|---|
 | Pratham Chellani |  [workbyprat@gmail.com](mailto:workbyprat@gmail.com) |
-
+|---|---|
 | Vidhiksha Mehta |  [vidhiksha0702@gmail.com](mailto:vidhiksha0702@gmail.com) |
-
+|---|---|
 | Tanish Ramchandani |  [ramchandanitanish@gmail.com](mailto:ramchandanitanish@gmail.com) |
-
+|---|---|
 | Karan Devnani |  [mr.bull965@gmail.com](mailto:mr.bull965@gmail.com) |
-
+|---|---|
 | Rishi Gangwani |  [gangwani.rishi29@gmail.com](mailto:gangwani.rishi29@gmail.com) |
-
+|---|---|
 | Vidisha Kachhia |  [kkachhia2411@gmail.com](mailto:kkachhia2411@gmail.com) |
-
+|---|---|
 
 
 ---
